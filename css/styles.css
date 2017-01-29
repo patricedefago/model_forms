@@ -1,13 +1,10 @@
 form {
-	background: #000000;
-}
-form {
 
-	background-color: #233e4e;
+	background-color: #6C3A27;
 
 	font-size: 1.4rem;
 
-	color: #55c3ea;
+	color: #CF9B61;
 
 	width: 90%;
 
@@ -17,6 +14,11 @@ form {
 
 	border-radius: .5em;
 
+}
+@media screen and (min-width: 1200px) {
+	form {
+		width: 50%;
+	}
 }
 
 input, label, textarea, #button_validate, #button_reset {
@@ -75,7 +77,7 @@ textarea {
 
 #button_validate,#button_reset {
 
-	background-color: #9cc55c;
+	background-color: #CF9B61;
 
 	font-size: 1.4rem;
 
