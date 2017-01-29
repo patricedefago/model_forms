@@ -1,5 +1,15 @@
-# model_forms
+# Modèle de formulaire
+* Nom
+* Prénom
+* Mail
+* Message
 
-forms template
+Le fichier est mis en forme et responsive (à adapter selon vos besoins)
 
-Modèle de formulaire
+# Forms template
+* Lastname
+* Firstname
+* Mail
+* Message
+
+The form is responsive
